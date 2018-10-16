@@ -8,6 +8,7 @@ using TallerApi.Api.Models;
 
 namespace TallerApi.Api.Controllers
 {
+    //creado porJjose Ayala
     public class PublicacionController : ApiController
     {
         [HttpGet]
